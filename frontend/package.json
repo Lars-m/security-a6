@@ -1,0 +1,27 @@
+{
+  "name": "seedclient",
+  "presenterName": "Seed for CA3",
+  "serverURL_REmote": "//dat-security.dk/secdemoA7/",
+  "serverURL_ROOT": "",
+  "serverURL_LO": "//localhost:8080/jwtbackend/",
+  "serverURL": "//dat-security.dk/secDemoA6/",
+  "sercureServerURL____OLD": "https://dat-security.dk/backend/",
+  "sercureServerURL": "http://localhost:8080/jwtbackend/",
+  "version": "0.1.0",
+  "private": true,
+  "homepage_A6": "https://dat-security.dk/secdemoA6/",
+  "homepageDev": "https://dat-security.dk/secdemoA7/",
+  "dependencies": {
+    "jwt-decode": "^2.2.0",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "1.0.14"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
